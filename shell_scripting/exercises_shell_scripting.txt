@@ -3,7 +3,7 @@ Exercise 1.
   
   #Expected Output
   #Hello, World!
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Exercise 2.
   The target of this exercise is to create a string, an integer, and a complex variable using command substitution.
   The string should be named BIRTHDATE and should contain the text "Jan 1, 2000". The integer should be named Presents and should contain the number 10.
@@ -15,7 +15,7 @@ Exercise 2.
   #BIRTHDATE is correct, it is Jan 1, 2000
   #I have received 10 presents
   #I was born on a Saturday
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Exercise 3.
   In this exercise, you will need to add numbers and strings to the correct arrays. You must add the numbers 1,2, and 3 to the "numbers" array, and the words 'hello' and 'world' to the strings array.
   You will also have to correct the values of the variable NumberOfNames and the variable second_name. NumberOfNames should hold the total number of names in the NAMES array, using the $# special variable. Variable second_name should hold the second name in the NAMES array, using the brackets operator [ ]. Note that the index is zero-based, so if you want to access the second item in the list, its index will be 1.
@@ -25,13 +25,13 @@ Exercise 3.
   #hello world
   #The number of names listed in the NAMES array: 3
   #The second name on the NAMES list is: Eric
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Exercise 4.
   In this exercise, you will need to calculate to total cost (variable TOTAL) of a fruit basket, which contains 1 pineapple, 2 bananas and 3 watermelons. Don't forget to include the cost of the basket.
   
   #Expected Output
   #Total Cost is 128
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
   Exercise 5.
   In this exercise, you will need to change Warren Buffett's known saying. First create a variable ISAY and assign it the original saying value. Then re-assign it with a new changed value using the string operations and following the 4 defined changes: Change1: replace the first occurrence of 'snow' with 'foot'. Change2: delete the second occurrence of 'snow'. Change3: replace 'finding' with 'getting'.
 
@@ -40,3 +40,24 @@ Exercise 4.
   #Life is like a snowball. The important thing is finding wet snow and a really long hill.
   #and I say:
   #Life is like a football. The important thing is getting wet and a really long hill.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+  Exercise 6.
+  Change the variables in the first section, so that each if statement resolves as True.
+  
+  #Expected Output
+  #1
+  #2
+  #3
+  #4
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+  Exercise 7.
+  In this exercise, you will need to loop through and print out all even numbers from the numbers list in the same order they are received. Don't print any numbers that come after 237 in the sequence.
+  
+  #Expected Output
+  #402
+  #984
+  #360
+  #408
+  #980
+  #544
+  #390
