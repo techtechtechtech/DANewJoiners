@@ -26,4 +26,17 @@ Exercise 3.
   #The number of names listed in the NAMES array: 3
   #The second name on the NAMES list is: Eric
 
+Exercise 4.
+  In this exercise, you will need to calculate to total cost (variable TOTAL) of a fruit basket, which contains 1 pineapple, 2 bananas and 3 watermelons. Don't forget to include the cost of the basket.
+  
+  #Expected Output
+  #Total Cost is 128
 
+  Exercise 5.
+  In this exercise, you will need to change Warren Buffett's known saying. First create a variable ISAY and assign it the original saying value. Then re-assign it with a new changed value using the string operations and following the 4 defined changes: Change1: replace the first occurrence of 'snow' with 'foot'. Change2: delete the second occurrence of 'snow'. Change3: replace 'finding' with 'getting'.
+
+  #Expected Output
+  #Warren Buffett said:
+  #Life is like a snowball. The important thing is finding wet snow and a really long hill.
+  #and I say:
+  #Life is like a football. The important thing is getting wet and a really long hill.
