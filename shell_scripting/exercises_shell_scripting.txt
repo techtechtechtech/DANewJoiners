@@ -1,10 +1,10 @@
-Exercise 1. Test and save the shell script as: exercise_1.sh
+Exercise 1.
   Use the "echo" command to print the line "Hello, World!".
   
   #Expected Output
   #Hello, World!
 
-Exercise 2. Test and save the shell script as: exercise_2.sh
+Exercise 2.
   The target of this exercise is to create a string, an integer, and a complex variable using command substitution.
   The string should be named BIRTHDATE and should contain the text "Jan 1, 2000". The integer should be named Presents and should contain the number 10.
   The complex variable should be named BIRTHDAY and should contain the full weekday name of the day matching the date in variable BIRTHDATE e.g. Saturday. 
